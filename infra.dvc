@@ -1,0 +1,6 @@
+outs:
+- md5: 4a166adec253f29a9ee9fa72e04b3ec6.dir
+  size: 9764
+  nfiles: 1
+  hash: md5
+  path: infra
