@@ -1,0 +1,6 @@
+outs:
+- md5: 98a1fe30e6c7e53644faa970c273aea7.dir
+  size: 6157
+  nfiles: 2
+  hash: md5
+  path: ml-ops-dev
